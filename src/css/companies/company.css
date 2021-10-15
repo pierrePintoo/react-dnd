@@ -1,0 +1,11 @@
+.company {
+  display: flex;
+}
+
+.company__item--count {
+  flex: 1;
+}
+
+.company__item--name {
+  flex: 2;
+}

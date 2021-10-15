@@ -1,7 +1,6 @@
 .city {
   display: flex;
   width: 50%;
-  margin: auto;
   cursor: pointer;
 }
 
@@ -9,4 +8,8 @@
   width: 25%;
   text-align: center;
   margin: auto 0 auto 10px;
+}
+
+.city__inner {
+  width: 75%;
 }
